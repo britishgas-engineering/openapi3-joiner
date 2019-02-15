@@ -1,0 +1,15 @@
+{
+    "name": "OpenAPI3_Joiner",
+    "version": "0.1.0",
+    "description": "Nodejs script to join multiple Open API 3 docs to a single doc",
+    "keywords": [
+        "Microservice",
+        "API",
+        "OpenApi3"
+    ],
+    "author": "Vikrant",
+    "license": "MIT",
+    "dependencies": {
+        "js-yaml": "^3.11.0"
+    }
+}

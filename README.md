@@ -12,5 +12,5 @@ into a single specification
 `npm install`
 
 `node invoke.js`
-(Please refer [invoke,js](./invoke.js) for more details)
+(Please refer [invoke.js](./invoke.js) for more details)
 

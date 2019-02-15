@@ -10,6 +10,7 @@ into a single specification
 
 # How to run
 `npm install`
+
 `node invoke.js`
-(Please refer [invoke,js](./script/README.md) for more details)
+(Please refer [invoke,js](./invoke.js) for more details)
 

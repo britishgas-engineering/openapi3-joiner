@@ -8,7 +8,7 @@ That creates a need to have a sigle API specification.
 This script is a tool to merge multiple Open API 3 specifications (json or yaml) 
 into a single specification
 
-# How to run
+# How to run?
 `npm install`
 
 `node invoke.js`
